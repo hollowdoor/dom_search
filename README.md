@@ -41,7 +41,7 @@ API
 
 `pattern` can be string, or regexp to search with.
 
-`result` is an object with two fields:
+`result` is an array of objects with two fields:
 
 -	textNode (the text node the pattern matched)
 -	parent (the parent of the matching text node)
